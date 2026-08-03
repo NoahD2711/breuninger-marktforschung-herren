@@ -1,0 +1,129 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Marktforschung Herrenmode — Wettbewerbs-Dashboard</title>
+  <meta name="description" content="Wöchentliche Wettbewerbsbeobachtung Herrenmode: Mytheresa, Engelhorn, LODENFREY, KaDeWe, Zalando Designer, Peek & Cloppenburg." />
+  <meta name="robots" content="noindex" />
+  <link rel="stylesheet" href="assets/style.css" />
+</head>
+<body>
+
+  <header class="site-header">
+    <div class="wrap">
+      <div class="brand">
+        <span class="eyebrow">Vorbereitung Einkauf · Breuninger</span>
+        <h1>Marktforschung Herrenmode</h1>
+      </div>
+      <div class="header-meta">
+        <span class="countdown-chip" id="countdown-chip">–</span>
+        <span>Letztes Update: <strong id="last-update">–</strong></span>
+        <span><strong id="week-count">0</strong> Wochen beobachtet</span>
+      </div>
+    </div>
+  </header>
+
+  <main id="app">
+
+    <section id="kpi-section">
+      <div class="wrap">
+        <div class="section-head">
+          <div>
+            <h2>Kennzahlen</h2>
+            <p>Einkauf-KPIs, so weit ehrlich möglich aus öffentlichen Wettbewerber-Daten angenähert.</p>
+          </div>
+        </div>
+        <div class="kpi-grid" id="kpi-grid"></div>
+      </div>
+    </section>
+
+    <section id="competitors-section">
+      <div class="wrap">
+        <div class="section-head">
+          <div>
+            <h2>Wettbewerber</h2>
+            <p>Aktuelle Woche im Überblick, mit 8-Wochen-Trend je Karte.</p>
+          </div>
+        </div>
+        <div class="competitor-grid" id="competitor-grid"></div>
+      </div>
+    </section>
+
+    <section id="trends-section">
+      <div class="wrap two-col">
+        <div class="chart-card">
+          <div class="section-head">
+            <div>
+              <h2>Wochentrend — Neuheiten</h2>
+              <p>Anzahl neu gelisteter Artikel pro Woche, je Wettbewerber. Klick auf die Legende blendet Serien aus.</p>
+            </div>
+          </div>
+          <div class="chart-legend" id="trend-legend"></div>
+          <div id="trend-chart-wrap"></div>
+        </div>
+
+        <div class="chart-card">
+          <div class="section-head">
+            <div>
+              <h2>Preis-Radar</h2>
+              <p>Ø Sale-Rabatttiefe, aktuelle Woche.</p>
+            </div>
+          </div>
+          <div id="price-radar-wrap"></div>
+        </div>
+      </div>
+    </section>
+
+    <section id="feed-section">
+      <div class="wrap">
+        <div class="section-head">
+          <div>
+            <h2>Neuheiten-Feed</h2>
+            <p>Alle diese Woche neu gelisteten Artikel, filterbar nach Wettbewerber.</p>
+          </div>
+        </div>
+        <div class="feed-controls">
+          <select id="feed-filter" aria-label="Nach Wettbewerber filtern"></select>
+        </div>
+        <div class="feed-table-wrap" id="feed-table-wrap"></div>
+      </div>
+    </section>
+
+    <section id="methodology-section">
+      <div class="wrap">
+        <div class="section-head">
+          <div>
+            <h2>Methodik &amp; Transparenz</h2>
+          </div>
+        </div>
+        <div class="methodology">
+          <p>Dieses Dashboard beobachtet ausschließlich öffentlich einsehbare Wettbewerber-Websites im Bereich Herrenmode. Sechs wöchentliche Firecrawl-Monitore prüfen jeden Sonntagabend die Kategorieseiten der Wettbewerber und melden Neuzugänge, Preisänderungen und Sortimentsveränderungen. Eine wöchentliche Cloud-Routine wertet diese Meldungen aus und schreibt einen neuen Datenschnappschuss.</p>
+
+          <h3>Was hier fehlt — bewusst</h3>
+          <p>Open-to-Buy und Kalkulationsspanne sind interne Breuninger-Kennzahlen. Sie werden hier nicht simuliert oder geschätzt, sondern klar als „nicht verfügbar" gekennzeichnet.</p>
+
+          <h3>Sonderfall KaDeWe/Oberpollinger</h3>
+          <p>Beide Häuser betreiben aktuell keinen funktionierenden Online-Shop mehr. Für diesen Wettbewerber werden nur redaktionelle Signale beobachtet, keine Preis- oder Sortimentsdaten.</p>
+
+          <div class="disclaimer-box">
+            Alle mit „Proxy" gekennzeichneten Werte sind externe Näherungen, keine echten internen Kennzahlen. Sie dienen der Trendbeobachtung, nicht der exakten Steuerung.
+          </div>
+
+          <h3>Rohdaten je Woche</h3>
+          <ul class="raw-data-list" id="raw-data-list"></ul>
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      Privates Projekt zur Studienvorbereitung. Nur öffentlich einsehbare Daten. Keine Weitergabe.
+    </div>
+  </footer>
+
+  <script src="assets/app.js"></script>
+</body>
+</html>
