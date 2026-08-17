@@ -1,0 +1,116 @@
+{
+  "week": "2026-W34",
+  "week_start_date": "2026-08-17",
+  "generated_at": "2026-08-17T06:11:28+02:00",
+  "source": "firecrawl-monitor-emails-counts-only",
+  "competitors": [
+    {
+      "id": "mytheresa",
+      "name": "Mytheresa Herren",
+      "monitor_url": "https://www.mytheresa.com/de-de/men/new-arrivals/current-week",
+      "email_found": true,
+      "changes_detected": true,
+      "new_arrivals": [],
+      "price_changes": [],
+      "sold_out_count": 0,
+      "assortment_size_signal": null,
+      "sale_active": false,
+      "kpi_proxies": {
+        "sell_through_proxy_note": "Keine Produktdaten aus E-Mail-Benachrichtigung ableitbar — nur Aktivitäts-Signal verfügbar.",
+        "nos_signal_note": "Keine Produktdaten aus E-Mail-Benachrichtigung ableitbar — nur Aktivitäts-Signal verfügbar.",
+        "price_positioning_note": "Keine Produktdaten aus E-Mail-Benachrichtigung ableitbar — nur Aktivitäts-Signal verfügbar."
+      },
+      "notes": "Mo: 1 changed, Di: 1 changed, Mi: 1 changed, Do: 1 changed, Fr: 1 changed, Sa: keine Mail, So: keine Mail — nur Seitenaktivität erkannt, keine Produktdetails."
+    },
+    {
+      "id": "engelhorn",
+      "name": "Engelhorn Herren Luxury",
+      "monitor_url": "https://www.engelhorn.de/de-de/herren/luxury/bekleidung/",
+      "email_found": true,
+      "changes_detected": true,
+      "new_arrivals": [],
+      "price_changes": [],
+      "sold_out_count": 0,
+      "assortment_size_signal": null,
+      "sale_active": false,
+      "kpi_proxies": {
+        "sell_through_proxy_note": "Keine Produktdaten aus E-Mail-Benachrichtigung ableitbar — nur Aktivitäts-Signal verfügbar.",
+        "nos_signal_note": "Keine Produktdaten aus E-Mail-Benachrichtigung ableitbar — nur Aktivitäts-Signal verfügbar.",
+        "price_positioning_note": "Keine Produktdaten aus E-Mail-Benachrichtigung ableitbar — nur Aktivitäts-Signal verfügbar."
+      },
+      "notes": "Mo: 1 changed, Di: 1 changed, Mi: 1 changed, Do: 1 changed, Fr: 1 changed, Sa: 1 changed, So: 1 changed — nur Seitenaktivität erkannt, keine Produktdetails."
+    },
+    {
+      "id": "lodenfrey",
+      "name": "LODENFREY Herren",
+      "monitor_url": "https://www.lodenfrey.com/Herren/",
+      "email_found": true,
+      "changes_detected": true,
+      "new_arrivals": [],
+      "price_changes": [],
+      "sold_out_count": 0,
+      "assortment_size_signal": null,
+      "sale_active": false,
+      "kpi_proxies": {
+        "sell_through_proxy_note": "Keine Produktdaten aus E-Mail-Benachrichtigung ableitbar — nur Aktivitäts-Signal verfügbar.",
+        "nos_signal_note": "Keine Produktdaten aus E-Mail-Benachrichtigung ableitbar — nur Aktivitäts-Signal verfügbar.",
+        "price_positioning_note": "Keine Produktdaten aus E-Mail-Benachrichtigung ableitbar — nur Aktivitäts-Signal verfügbar."
+      },
+      "notes": "Mo: 1 changed, Di: 1 changed, Mi: 1 changed, Do: 1 changed, Fr: keine Mail, Sa: 1 changed, So: keine Mail — nur Seitenaktivität erkannt, keine Produktdetails."
+    },
+    {
+      "id": "kadewe",
+      "name": "KaDeWe Herrenmode",
+      "monitor_url": "https://www.kadewe.de/",
+      "email_found": true,
+      "changes_detected": false,
+      "new_arrivals": [],
+      "price_changes": [],
+      "sold_out_count": 0,
+      "assortment_size_signal": null,
+      "sale_active": false,
+      "kpi_proxies": {
+        "sell_through_proxy_note": "Keine Produktdaten aus E-Mail-Benachrichtigung ableitbar — nur Aktivitäts-Signal verfügbar.",
+        "nos_signal_note": "Keine Produktdaten aus E-Mail-Benachrichtigung ableitbar — nur Aktivitäts-Signal verfügbar.",
+        "price_positioning_note": "Keine Produktdaten aus E-Mail-Benachrichtigung ableitbar — nur Aktivitäts-Signal verfügbar."
+      },
+      "notes": "Kein Online-Shop verfügbar – nur redaktionelle/Pop-up-Signale. Mo: keine Mail, Di: keine Mail, Mi: keine Mail, Do: keine Mail, Fr: keine Mail, Sa: keine Mail, So: 0 changed/0 new (1 Fehler beim Seitenabruf) — nur Seitenaktivität erkannt, keine Produktdetails."
+    },
+    {
+      "id": "zalando",
+      "name": "Zalando Designer Herren",
+      "monitor_url": "https://www.zalando.de/premium-herrenbekleidung/",
+      "email_found": true,
+      "changes_detected": true,
+      "new_arrivals": [],
+      "price_changes": [],
+      "sold_out_count": 0,
+      "assortment_size_signal": null,
+      "sale_active": false,
+      "kpi_proxies": {
+        "sell_through_proxy_note": "Keine Produktdaten aus E-Mail-Benachrichtigung ableitbar — nur Aktivitäts-Signal verfügbar.",
+        "nos_signal_note": "Keine Produktdaten aus E-Mail-Benachrichtigung ableitbar — nur Aktivitäts-Signal verfügbar.",
+        "price_positioning_note": "Keine Produktdaten aus E-Mail-Benachrichtigung ableitbar — nur Aktivitäts-Signal verfügbar."
+      },
+      "notes": "Mo: 1 changed, Di: 1 changed, Mi: 1 changed, Do: 1 changed, Fr: 1 changed, Sa: 1 changed, So: 1 changed — nur Seitenaktivität erkannt, keine Produktdetails."
+    },
+    {
+      "id": "peekcloppenburg",
+      "name": "Peek & Cloppenburg Herren",
+      "monitor_url": "https://www.peek-cloppenburg.de/de/herren/bekleidung",
+      "email_found": true,
+      "changes_detected": true,
+      "new_arrivals": [],
+      "price_changes": [],
+      "sold_out_count": 0,
+      "assortment_size_signal": null,
+      "sale_active": false,
+      "kpi_proxies": {
+        "sell_through_proxy_note": "Keine Produktdaten aus E-Mail-Benachrichtigung ableitbar — nur Aktivitäts-Signal verfügbar.",
+        "nos_signal_note": "Keine Produktdaten aus E-Mail-Benachrichtigung ableitbar — nur Aktivitäts-Signal verfügbar.",
+        "price_positioning_note": "Keine Produktdaten aus E-Mail-Benachrichtigung ableitbar — nur Aktivitäts-Signal verfügbar."
+      },
+      "notes": "Mo: 1 changed, Di: 1 changed, Mi: 1 changed, Do: 1 changed, Fr: 1 changed, Sa: 1 changed, So: 1 changed — nur Seitenaktivität erkannt, keine Produktdetails."
+    }
+  ]
+}
