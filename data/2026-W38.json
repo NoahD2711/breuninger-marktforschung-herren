@@ -1,0 +1,116 @@
+{
+  "week": "2026-W38",
+  "week_start_date": "2026-09-14",
+  "generated_at": "2026-09-14T06:05:41+02:00",
+  "source": "firecrawl-monitor-emails-counts-only",
+  "competitors": [
+    {
+      "id": "mytheresa",
+      "name": "Mytheresa Herren",
+      "monitor_url": "https://www.mytheresa.com/de-de/men/new-arrivals/current-week",
+      "email_found": true,
+      "changes_detected": false,
+      "new_arrivals": [],
+      "price_changes": [],
+      "sold_out_count": 0,
+      "assortment_size_signal": null,
+      "sale_active": false,
+      "kpi_proxies": {
+        "sell_through_proxy_note": "Keine Produktdaten aus E-Mail-Benachrichtigung ableitbar — nur Aktivitäts-Signal verfügbar.",
+        "nos_signal_note": "Keine Produktdaten aus E-Mail-Benachrichtigung ableitbar — nur Aktivitäts-Signal verfügbar.",
+        "price_positioning_note": "Keine Produktdaten aus E-Mail-Benachrichtigung ableitbar — nur Aktivitäts-Signal verfügbar."
+      },
+      "notes": "Mo: 0 changed/0 new/0 removed, 1 error (Seite konnte nicht geprüft werden); Di: keine Mail, Mi: keine Mail, Do: keine Mail, Fr: keine Mail, Sa: keine Mail, So: keine Mail — nur Seitenaktivität erkannt, keine Produktdetails. Hinweis: nach Montag sind für diesen Monitor keine weiteren Check-Mails mehr eingegangen."
+    },
+    {
+      "id": "engelhorn",
+      "name": "Engelhorn Herren Luxury",
+      "monitor_url": "https://www.engelhorn.de/de-de/herren/luxury/bekleidung/",
+      "email_found": true,
+      "changes_detected": true,
+      "new_arrivals": [],
+      "price_changes": [],
+      "sold_out_count": 0,
+      "assortment_size_signal": null,
+      "sale_active": false,
+      "kpi_proxies": {
+        "sell_through_proxy_note": "Keine Produktdaten aus E-Mail-Benachrichtigung ableitbar — nur Aktivitäts-Signal verfügbar.",
+        "nos_signal_note": "Keine Produktdaten aus E-Mail-Benachrichtigung ableitbar — nur Aktivitäts-Signal verfügbar.",
+        "price_positioning_note": "Keine Produktdaten aus E-Mail-Benachrichtigung ableitbar — nur Aktivitäts-Signal verfügbar."
+      },
+      "notes": "Mo: 1 changed/0 new/0 removed, Di: keine Mail, Mi: keine Mail, Do: keine Mail, Fr: keine Mail, Sa: keine Mail, So: keine Mail — nur Seitenaktivität erkannt, keine Produktdetails. Hinweis: nach Montag sind für diesen Monitor keine weiteren Check-Mails mehr eingegangen."
+    },
+    {
+      "id": "lodenfrey",
+      "name": "LODENFREY Herren",
+      "monitor_url": "https://www.lodenfrey.com/Herren/",
+      "email_found": true,
+      "changes_detected": true,
+      "new_arrivals": [],
+      "price_changes": [],
+      "sold_out_count": 0,
+      "assortment_size_signal": null,
+      "sale_active": false,
+      "kpi_proxies": {
+        "sell_through_proxy_note": "Keine Produktdaten aus E-Mail-Benachrichtigung ableitbar — nur Aktivitäts-Signal verfügbar.",
+        "nos_signal_note": "Keine Produktdaten aus E-Mail-Benachrichtigung ableitbar — nur Aktivitäts-Signal verfügbar.",
+        "price_positioning_note": "Keine Produktdaten aus E-Mail-Benachrichtigung ableitbar — nur Aktivitäts-Signal verfügbar."
+      },
+      "notes": "Mo: 1 changed/0 new/0 removed, Di: keine Mail, Mi: keine Mail, Do: keine Mail, Fr: keine Mail, Sa: keine Mail, So: keine Mail — nur Seitenaktivität erkannt, keine Produktdetails. Hinweis: nach Montag sind für diesen Monitor keine weiteren Check-Mails mehr eingegangen."
+    },
+    {
+      "id": "kadewe",
+      "name": "KaDeWe Herrenmode",
+      "monitor_url": "https://www.kadewe.de/",
+      "email_found": false,
+      "changes_detected": false,
+      "new_arrivals": [],
+      "price_changes": [],
+      "sold_out_count": 0,
+      "assortment_size_signal": null,
+      "sale_active": false,
+      "kpi_proxies": {
+        "sell_through_proxy_note": "Keine Produktdaten aus E-Mail-Benachrichtigung ableitbar — nur Aktivitäts-Signal verfügbar.",
+        "nos_signal_note": "Keine Produktdaten aus E-Mail-Benachrichtigung ableitbar — nur Aktivitäts-Signal verfügbar.",
+        "price_positioning_note": "Keine Produktdaten aus E-Mail-Benachrichtigung ableitbar — nur Aktivitäts-Signal verfügbar."
+      },
+      "notes": "Kein Online-Shop verfügbar – nur redaktionelle/Pop-up-Signale. Mo: keine Mail, Di: keine Mail, Mi: keine Mail, Do: keine Mail, Fr: keine Mail, Sa: keine Mail, So: keine Mail — in den letzten 7 Tagen keine Monitor-Mail erhalten. Letzte bekannte Mail dieses Monitors: 2026-09-02."
+    },
+    {
+      "id": "zalando",
+      "name": "Zalando Designer Herren",
+      "monitor_url": "https://www.zalando.de/premium-herrenbekleidung/",
+      "email_found": false,
+      "changes_detected": false,
+      "new_arrivals": [],
+      "price_changes": [],
+      "sold_out_count": 0,
+      "assortment_size_signal": null,
+      "sale_active": false,
+      "kpi_proxies": {
+        "sell_through_proxy_note": "Keine Produktdaten aus E-Mail-Benachrichtigung ableitbar — nur Aktivitäts-Signal verfügbar.",
+        "nos_signal_note": "Keine Produktdaten aus E-Mail-Benachrichtigung ableitbar — nur Aktivitäts-Signal verfügbar.",
+        "price_positioning_note": "Keine Produktdaten aus E-Mail-Benachrichtigung ableitbar — nur Aktivitäts-Signal verfügbar."
+      },
+      "notes": "Mo: keine Mail, Di: keine Mail, Mi: keine Mail, Do: keine Mail, Fr: keine Mail, Sa: keine Mail, So: keine Mail — in den letzten 7 Tagen keine Monitor-Mail erhalten. Letzte bekannte Mail dieses Monitors: 2026-09-06 (also unmittelbar vor dem 7-Tage-Fenster)."
+    },
+    {
+      "id": "peekcloppenburg",
+      "name": "Peek & Cloppenburg Herren",
+      "monitor_url": "https://www.peek-cloppenburg.de/de/herren/bekleidung",
+      "email_found": true,
+      "changes_detected": true,
+      "new_arrivals": [],
+      "price_changes": [],
+      "sold_out_count": 0,
+      "assortment_size_signal": null,
+      "sale_active": false,
+      "kpi_proxies": {
+        "sell_through_proxy_note": "Keine Produktdaten aus E-Mail-Benachrichtigung ableitbar — nur Aktivitäts-Signal verfügbar.",
+        "nos_signal_note": "Keine Produktdaten aus E-Mail-Benachrichtigung ableitbar — nur Aktivitäts-Signal verfügbar.",
+        "price_positioning_note": "Keine Produktdaten aus E-Mail-Benachrichtigung ableitbar — nur Aktivitäts-Signal verfügbar."
+      },
+      "notes": "Mo: 1 changed/0 new/0 removed, Di: keine Mail, Mi: keine Mail, Do: keine Mail, Fr: keine Mail, Sa: keine Mail, So: keine Mail — nur Seitenaktivität erkannt, keine Produktdetails. Hinweis: nach Montag sind für diesen Monitor keine weiteren Check-Mails mehr eingegangen."
+    }
+  ]
+}
