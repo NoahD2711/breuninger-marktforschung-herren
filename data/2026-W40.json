@@ -1,0 +1,116 @@
+{
+  "week": "2026-W40",
+  "week_start_date": "2026-09-28",
+  "generated_at": "2026-09-28T06:16:57+02:00",
+  "source": "firecrawl-monitor-emails-counts-only",
+  "competitors": [
+    {
+      "id": "mytheresa",
+      "name": "Mytheresa Herren",
+      "monitor_url": "https://www.mytheresa.com/de-de/men/new-arrivals/current-week",
+      "email_found": false,
+      "changes_detected": false,
+      "new_arrivals": [],
+      "price_changes": [],
+      "sold_out_count": 0,
+      "assortment_size_signal": null,
+      "sale_active": false,
+      "kpi_proxies": {
+        "sell_through_proxy_note": "Keine Produktdaten aus E-Mail-Benachrichtigung ableitbar — nur Aktivitäts-Signal verfügbar.",
+        "nos_signal_note": "Keine Produktdaten aus E-Mail-Benachrichtigung ableitbar — nur Aktivitäts-Signal verfügbar.",
+        "price_positioning_note": "Keine Produktdaten aus E-Mail-Benachrichtigung ableitbar — nur Aktivitäts-Signal verfügbar."
+      },
+      "notes": "Keine Monitor-Mail in den letzten 7 Tagen (21.09.–28.09.) im Postfach gefunden. Letzte bekannte Mail für diesen Wettbewerber: 07.09.2026 (Changed: 0, New: 0, Removed: 0, Errors: 1). Monitor sendet seit drei Wochen keine Mails mehr — kein Aktivitäts-Signal für diese Woche verfügbar, möglicher anhaltender Ausfall des Monitors oder Mailversands."
+    },
+    {
+      "id": "engelhorn",
+      "name": "Engelhorn Herren Luxury",
+      "monitor_url": "https://www.engelhorn.de/de-de/herren/luxury/bekleidung/",
+      "email_found": false,
+      "changes_detected": false,
+      "new_arrivals": [],
+      "price_changes": [],
+      "sold_out_count": 0,
+      "assortment_size_signal": null,
+      "sale_active": false,
+      "kpi_proxies": {
+        "sell_through_proxy_note": "Keine Produktdaten aus E-Mail-Benachrichtigung ableitbar — nur Aktivitäts-Signal verfügbar.",
+        "nos_signal_note": "Keine Produktdaten aus E-Mail-Benachrichtigung ableitbar — nur Aktivitäts-Signal verfügbar.",
+        "price_positioning_note": "Keine Produktdaten aus E-Mail-Benachrichtigung ableitbar — nur Aktivitäts-Signal verfügbar."
+      },
+      "notes": "Keine Monitor-Mail in den letzten 7 Tagen (21.09.–28.09.) im Postfach gefunden. Letzte bekannte Mail für diesen Wettbewerber: 07.09.2026 (Changed: 1, New: 0, Removed: 0, Errors: 0). Monitor sendet seit drei Wochen keine Mails mehr — kein Aktivitäts-Signal für diese Woche verfügbar, möglicher anhaltender Ausfall des Monitors oder Mailversands."
+    },
+    {
+      "id": "lodenfrey",
+      "name": "LODENFREY Herren",
+      "monitor_url": "https://www.lodenfrey.com/Herren/",
+      "email_found": false,
+      "changes_detected": false,
+      "new_arrivals": [],
+      "price_changes": [],
+      "sold_out_count": 0,
+      "assortment_size_signal": null,
+      "sale_active": false,
+      "kpi_proxies": {
+        "sell_through_proxy_note": "Keine Produktdaten aus E-Mail-Benachrichtigung ableitbar — nur Aktivitäts-Signal verfügbar.",
+        "nos_signal_note": "Keine Produktdaten aus E-Mail-Benachrichtigung ableitbar — nur Aktivitäts-Signal verfügbar.",
+        "price_positioning_note": "Keine Produktdaten aus E-Mail-Benachrichtigung ableitbar — nur Aktivitäts-Signal verfügbar."
+      },
+      "notes": "Keine Monitor-Mail in den letzten 7 Tagen (21.09.–28.09.) im Postfach gefunden. Letzte bekannte Mail für diesen Wettbewerber: 07.09.2026 (Changed: 1, New: 0, Removed: 0, Errors: 0). Monitor sendet seit drei Wochen keine Mails mehr — kein Aktivitäts-Signal für diese Woche verfügbar, möglicher anhaltender Ausfall des Monitors oder Mailversands."
+    },
+    {
+      "id": "kadewe",
+      "name": "KaDeWe Herrenmode",
+      "monitor_url": "https://www.kadewe.de/",
+      "email_found": false,
+      "changes_detected": false,
+      "new_arrivals": [],
+      "price_changes": [],
+      "sold_out_count": 0,
+      "assortment_size_signal": null,
+      "sale_active": false,
+      "kpi_proxies": {
+        "sell_through_proxy_note": "Keine Produktdaten aus E-Mail-Benachrichtigung ableitbar — nur Aktivitäts-Signal verfügbar.",
+        "nos_signal_note": "Keine Produktdaten aus E-Mail-Benachrichtigung ableitbar — nur Aktivitäts-Signal verfügbar.",
+        "price_positioning_note": "Keine Produktdaten aus E-Mail-Benachrichtigung ableitbar — nur Aktivitäts-Signal verfügbar."
+      },
+      "notes": "Kein Online-Shop verfügbar – nur redaktionelle/Pop-up-Signale. Keine Monitor-Mail in den letzten 7 Tagen (21.09.–28.09.) im Postfach gefunden. Monitor sendet seit drei Wochen keine Mails mehr — kein Aktivitäts-Signal für diese Woche verfügbar, möglicher anhaltender Ausfall des Monitors oder Mailversands."
+    },
+    {
+      "id": "zalando",
+      "name": "Zalando Designer Herren",
+      "monitor_url": "https://www.zalando.de/premium-herrenbekleidung/",
+      "email_found": false,
+      "changes_detected": false,
+      "new_arrivals": [],
+      "price_changes": [],
+      "sold_out_count": 0,
+      "assortment_size_signal": null,
+      "sale_active": false,
+      "kpi_proxies": {
+        "sell_through_proxy_note": "Keine Produktdaten aus E-Mail-Benachrichtigung ableitbar — nur Aktivitäts-Signal verfügbar.",
+        "nos_signal_note": "Keine Produktdaten aus E-Mail-Benachrichtigung ableitbar — nur Aktivitäts-Signal verfügbar.",
+        "price_positioning_note": "Keine Produktdaten aus E-Mail-Benachrichtigung ableitbar — nur Aktivitäts-Signal verfügbar."
+      },
+      "notes": "Keine Monitor-Mail in den letzten 7 Tagen (21.09.–28.09.) im Postfach gefunden. Letzte bekannte Mail für diesen Wettbewerber: 06.09.2026 (Changed: 1, New: 0, Removed: 0, Errors: 0). Monitor sendet seit drei Wochen keine Mails mehr — kein Aktivitäts-Signal für diese Woche verfügbar, möglicher anhaltender Ausfall des Monitors oder Mailversands."
+    },
+    {
+      "id": "peekcloppenburg",
+      "name": "Peek & Cloppenburg Herren",
+      "monitor_url": "https://www.peek-cloppenburg.de/de/herren/bekleidung",
+      "email_found": false,
+      "changes_detected": false,
+      "new_arrivals": [],
+      "price_changes": [],
+      "sold_out_count": 0,
+      "assortment_size_signal": null,
+      "sale_active": false,
+      "kpi_proxies": {
+        "sell_through_proxy_note": "Keine Produktdaten aus E-Mail-Benachrichtigung ableitbar — nur Aktivitäts-Signal verfügbar.",
+        "nos_signal_note": "Keine Produktdaten aus E-Mail-Benachrichtigung ableitbar — nur Aktivitäts-Signal verfügbar.",
+        "price_positioning_note": "Keine Produktdaten aus E-Mail-Benachrichtigung ableitbar — nur Aktivitäts-Signal verfügbar."
+      },
+      "notes": "Keine Monitor-Mail in den letzten 7 Tagen (21.09.–28.09.) im Postfach gefunden. Letzte bekannte Mail für diesen Wettbewerber: 07.09.2026 (Changed: 1, New: 0, Removed: 0, Errors: 0). Monitor sendet seit drei Wochen keine Mails mehr — kein Aktivitäts-Signal für diese Woche verfügbar, möglicher anhaltender Ausfall des Monitors oder Mailversands."
+    }
+  ]
+}
