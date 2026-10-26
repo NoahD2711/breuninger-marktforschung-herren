@@ -1,6 +1,11 @@
 {
   "weeks": [
     {
+      "week": "2026-W44",
+      "file": "data/2026-W44.json",
+      "generated_at": "2026-10-26T06:00:00+01:00"
+    },
+    {
       "week": "2026-W43",
       "file": "data/2026-W43.json",
       "generated_at": "2026-10-19T06:17:22+02:00"
